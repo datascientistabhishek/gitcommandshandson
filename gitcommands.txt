@@ -2,3 +2,9 @@ git --version
 git init 
 git add .
 git status
+
+
+git branch
+git switch -c <branch name>
+git checkout <branch name>
+git checkout -b <branch name>
