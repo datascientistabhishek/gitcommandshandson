@@ -4,7 +4,25 @@ git add .
 git status
 
 
+
+git config —global user.name ‘abhishek0014singh@gmail.com’
+git config —global user.name ‘Abhishek’
+
+
 git branch
+git branch <branch name> --> to create new branch
+
 git switch -c <branch name>
 git checkout <branch name>
 git checkout -b <branch name>
+
+git merge <other branch name> ( merge into main/master)
+
+
+git branch -d daily-routine --> to delete the  branch
+
+git branch -m master main --> to rename the branch
+
+
+git diff
+git diff --staged
