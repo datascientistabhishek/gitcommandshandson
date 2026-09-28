@@ -33,7 +33,7 @@ git diff --staged
 
 
 
-git remote add github https://github.com/abhishek/project.git     #Git, add a remote repository, call it origin, and its address is this GitHub URL.
+git remote add github/origin https://github.com/abhishek/project.git     #Git, add a remote repository, call it origin, and its address is this GitHub URL.
 
 git remote -v ----> see the remote repositories connected to your local Git repository.
 
